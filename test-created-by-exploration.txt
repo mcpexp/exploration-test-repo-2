@@ -1,0 +1,4 @@
+This file was created during exploration of MCP repository management tools.
+
+Purpose: Testing the create_or_update_file functionality.
+Timestamp: Exploration phase
