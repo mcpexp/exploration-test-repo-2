@@ -1,0 +1,9 @@
+This file was created during MCP tool exploration to test the create_or_update_file tool.
+
+Purpose:
+- Understand required arguments (owner, repo, path, branch, message, content)
+- Learn about optional sha parameter for updates
+- Observe response format
+- Test file creation workflow
+
+Exploration context: Free exploration of MCP tools in repository_management domain.
