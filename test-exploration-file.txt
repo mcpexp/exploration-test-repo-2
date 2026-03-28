@@ -1,0 +1,5 @@
+This is a test file created during MCP tool exploration.
+
+Purpose: To understand the create_or_update_file tool's behavior, required arguments, and response format.
+
+Timestamp: Exploration phase
