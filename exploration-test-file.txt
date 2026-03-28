@@ -1,0 +1,5 @@
+This is a test file created to explore the create_or_update_file tool.
+
+Purpose: Understand required arguments, observe response format, and test file creation workflow.
+
+Timestamp: Exploration test
