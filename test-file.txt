@@ -1,2 +1,1 @@
-This is a test file created during MCP tool exploration.
-It demonstrates file creation capabilities.
+This is a test file for exploring Copilot review.
