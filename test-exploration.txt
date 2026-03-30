@@ -1,2 +1,0 @@
-This is a test file created to explore the create_or_update_file tool.
-It helps understand how file operations work in repository management.
